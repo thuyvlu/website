@@ -1,0 +1,44 @@
+---
+title: "Projects and Research"
+description: |
+  Below are my projects and research experience. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Projects
+
+#### Shiny App [<i class="fab fa-github"></i>](https://github.com/stats295r-fa20/shiny-group3)
+Created a Shiny app that helps with learning simple linear regression. The app allows the user to select one of the existing data set, estimate a regression line to a set of variables and validate their own estimations by examining the residuals.
+
+#### R package [<i class="fab fa-github"></i>](https://github.com/stats295r-fa20/package-group4)
+Created a R package called `neurovis` to help facilitate neuroscientific research. The package provides functions that generates interactive raster plots for spike train data, heatmaps and lists of sliding windows and row means for a matrix provided by the user. 
+
+#### Wine Quality Prediction <a href="projects/wine-quality.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> [<i class="fab fa-github"></i>](https://github.com/stats295r-fa20/hw1-thuyvlu)
+Analyzed the association between physicochemical properties and wine preferences as well as predict wine quality based on those properties. 
+
+#### Forcasting Average Temperature of Cali, Columbia <a href="projects/cali-temperature.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> 
+Analyzed the monthly average temperature of Cali from 1857 to 2013, and fitted a model that forecasted its average temperature from 2013 to 2015.
+
+#### Integer Programming Problems <a href="projects/integer-programming.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+Formulated an integer programming problem to solve an assignment problem where a number of health care workers needed distributing to five hospitals in response to a medical crisis situation.
+
+
+#### Linear Programming for Optimizing Transportation Cost and Time <a href="projects/linear-programming.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+Formulated a linear programming problem with appropriate constraints to determine the number of units needed distributing to different locations such that transportation cost and time can be minimized. 
+
+
+
+## Research experience
+
+#### Markov Chains 
+
+* Research group with Dr. Alan Krinik, Cal Poly Pomona, 2019 - 2020.
+* Studied different approaches in finding the _n_-step transition probabilities of finite Markov chains that resembled a generalized ballot box problem. Finite birth-death-like chains whose transition probabilities were redefined to include generalized catastrophe probabilities were also investigated.
+
+#### Operations Research 
+
+* Research group with Dr. Jillian Cannons, Cal Poly Pomona, 2019 - 2020.
+* Studied the paper “Particle Swarm Optimization (PSO)-Based Source Seeking” and simulated PSO algorithms with some extensions to find an optimal solution to a source-seeking problem where an electromagnetic source was to be located by a group of robots.

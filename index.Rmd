@@ -1,0 +1,14 @@
+---
+title: "Thuy Vu Dieu Lu"
+description: |
+  PhD student in Statistics   
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a first year PhD student in Statistics at University of California, Irvine. I graduated from Cal Poly Pomona with a Bachelor of Science in Applied Mathematics/Statistics. As an undergrad, I participated in research groups that focus on Markov chains and operations research.
+
+Links: <a href="mailto:lutv@uci.edu"><i class="far fa-envelope"></i></a>  [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/thuy-lu-2077b3145/) [<i class="fab fa-github"></i>](https://github.com/stats295r-fa20/hw1-thuyvlu)

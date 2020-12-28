@@ -1,0 +1,20 @@
+---
+title: "Conferences and talks"
+description: |
+  Below is a list of talks given at conferences. 
+---
+
+
+<ol reversed>
+  <li>Lin, J., & **Lu, T.** *Particle Swarm Optimization-Based Source Seeking with Obstacle Avoidance*. Talk given at the Cal Poly Pomona Student Research, Scholarship & Creative Activities Conference. Pomona, CA. March, 2020.</li>
+  <li>Lin, J., & **Lu, T.** *Particle Swarm Optimization-Based Source Seeking with Obstacle Avoidance*. Talk given at Joint Mathematics Meetings. Denver, CO. January, 2020.</li>
+  <li>Krinik, A., Lin, J., & **Lu, T.** *Closed Form Expressions for Powers and Exponentials of Tridiagonal Toeplitz Matrices*. Talk given at Joint Mathematics Meetings. Denver, CO. January, 2020.</li>
+  <li>Lin, J., & **Lu, T.** *Particle Swarm Optimization-Based Source Seeking with Obstacle Avoidance*. Talk given at Southern California Conferences for Undergraduate Research. San Marcos, CA. November, 2019.</li>
+  <li>Cannons, J., Lin, J., & **Lu, T.** *Particle Swarm Optimization-Based Source Seeking with Obstacle Avoidance*. Talk given at AMS Fall Western Sectional Meeting. Riverside, CA. November, 2019.
+</li>
+  <li>Krinik, A., Lin, J., & **Lu, T.** *Generalized Ballot Box Problem and Finite Markov Chains with Catastrophe-Like Transitions*. Talk given at AMS Fall Western Sectional Meeting. Riverside, CA. November, 2019.</li>
+  <li>Hernandez, V., Lin, J., & **Lu, T.** *Particle Swarm Optimization-Based Source Seeking*. Talk given at the Cal Poly Pomona Creative Activities and Research Symposium. Pomona, CA. August, 2019.</li>
+</ol>
+
+
+

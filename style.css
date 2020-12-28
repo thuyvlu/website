@@ -1,0 +1,17 @@
+.distill-site-nav {
+  background-color: #D7D9DB;
+  font-size: 15px;
+  font-weight: 200;
+}
+
+.distill-site-nav a:hover {
+  color: black;
+  font-weight: bold;
+}
+
+
+@media print {
+  .distill-site-nav {
+    display: none;
+  }
+}

@@ -1,0 +1,21 @@
+---
+title: "Courses"
+description: |
+  Below are lists of related courses taken at undergraduate and graduate institutions. 
+---
+ 
+### Univetsity of California, Irvine
+
+* STATS 200A  - Intermediate Probability and Statistical Theory 
+* STATS 210 - Statistical Methods I: Linear Models
+* STATS 295 - Advanced R
+
+### Cal Poly Pomona
+
+* STA 4250 - Survival Analysis
+* STA 4320 - Applied Regression Analysis
+* STA 5250 - Time Series Analysis
+* STA 5320 - Linear Statistical Models
+* MAT 3800 - Mathematics of Operation Research I
+* MAT 3810 - Mathematics of Operation Research II
+* MAT 4800 - Mathematical Programming
