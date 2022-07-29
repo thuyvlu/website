@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "path": "courses.html",
+      "title": "Courses",
+      "description": "Below are lists of related courses taken at undergraduate and graduate institutions. ",
+      "author": [],
+      "contents": "\nUnivetsity of California,\nIrvine\nSTATS 200A - Intermediate Probability and Statistical Theory\nSTATS 210 - Statistical Methods I: Linear Models\nSTATS 295 - Advanced R\nCal Poly Pomona\nSTA 4250 - Survival Analysis\nSTA 4320 - Applied Regression Analysis\nSTA 5250 - Time Series Analysis\nSTA 5320 - Linear Statistical Models\nMAT 3800 - Mathematics of Operation Research I\nMAT 3810 - Mathematics of Operation Research II\nMAT 4800 - Mathematical Programming\n\n\n\n",
+      "last_modified": "2022-07-29T07:31:03-07:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-07-29T07:31:04-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Thuy Vu Dieu Lu",
+      "description": "PhD student in Statistics   \n",
+      "author": [],
+      "contents": "\nI am a first year PhD student in Statistics at University of\nCalifornia, Irvine. I graduated from Cal Poly Pomona with a Bachelor of\nScience in Applied Mathematics/Statistics. As an undergrad, I\nparticipated in research groups that focus on Markov chains and\noperations research.\nLinks:\n \n\n\n\n\n",
+      "last_modified": "2022-07-29T07:31:05-07:00"
+    },
+    {
+      "path": "project.html",
+      "title": "Projects and Research",
+      "description": "Below are my projects and research experience. ",
+      "author": [],
+      "contents": "\nProjects\nShiny App \nCreated a Shiny app that helps with learning simple linear\nregression. The app allows the user to select one of the existing data\nset, estimate a regression line to a set of variables and validate their\nown estimations by examining the residuals.\nR package \nCreated a R package called neurovis to help facilitate\nneuroscientific research. The package provides functions that generates\ninteractive raster plots for spike train data, heatmaps and lists of\nsliding windows and row means for a matrix provided by the user.\nWine Quality Prediction\n\n\nAnalyzed the association between physicochemical properties and wine\npreferences as well as predict wine quality based on those\nproperties.\nForcasting\nAverage Temperature of Cali, Columbia\n\nAnalyzed the monthly average temperature of Cali from 1857 to 2013,\nand fitted a model that forecasted its average temperature from 2013 to\n2015.\nInteger Programming Problems\n\nFormulated an integer programming problem to solve an assignment\nproblem where a number of health care workers needed distributing to\nfive hospitals in response to a medical crisis situation.\nLinear\nProgramming for Optimizing Transportation Cost and Time\n\nFormulated a linear programming problem with appropriate constraints\nto determine the number of units needed distributing to different\nlocations such that transportation cost and time can be minimized.\nResearch experience\nMarkov Chains\nResearch group with Dr. Alan Krinik, Cal Poly Pomona, 2019 -\n2020.\nStudied different approaches in finding the n-step\ntransition probabilities of finite Markov chains that resembled a\ngeneralized ballot box problem. Finite birth-death-like chains whose\ntransition probabilities were redefined to include generalized\ncatastrophe probabilities were also investigated.\nOperations Research\nResearch group with Dr. Jillian Cannons, Cal Poly Pomona, 2019 -\n2020.\nStudied the paper “Particle Swarm Optimization (PSO)-Based Source\nSeeking” and simulated PSO algorithms with some extensions to find an\noptimal solution to a source-seeking problem where an electromagnetic\nsource was to be located by a group of robots.\n\n\n\n",
+      "last_modified": "2022-07-29T07:31:05-07:00"
+    },
+    {
+      "path": "talks.html",
+      "title": "Conferences and talks",
+      "description": "Below is a list of talks given at conferences. ",
+      "author": [],
+      "contents": "\n\nLin, J., & Lu, T. Particle Swarm\nOptimization-Based Source Seeking with Obstacle Avoidance. Talk\ngiven at the Cal Poly Pomona Student Research, Scholarship &\nCreative Activities Conference. Pomona, CA. March, 2020.\n\n\nLin, J., & Lu, T. Particle Swarm\nOptimization-Based Source Seeking with Obstacle Avoidance. Talk\ngiven at Joint Mathematics Meetings. Denver, CO. January, 2020.\n\n\nKrinik, A., Lin, J., & Lu, T. Closed Form\nExpressions for Powers and Exponentials of Tridiagonal Toeplitz\nMatrices. Talk given at Joint Mathematics Meetings. Denver, CO.\nJanuary, 2020.\n\n\nLin, J., & Lu, T. Particle Swarm\nOptimization-Based Source Seeking with Obstacle Avoidance. Talk\ngiven at Southern California Conferences for Undergraduate Research. San\nMarcos, CA. November, 2019.\n\n\nCannons, J., Lin, J., & Lu, T. Particle Swarm\nOptimization-Based Source Seeking with Obstacle Avoidance. Talk\ngiven at AMS Fall Western Sectional Meeting. Riverside, CA. November,\n2019.\n\n\nKrinik, A., Lin, J., & Lu, T. Generalized\nBallot Box Problem and Finite Markov Chains with Catastrophe-Like\nTransitions. Talk given at AMS Fall Western Sectional Meeting.\nRiverside, CA. November, 2019.\n\n\nHernandez, V., Lin, J., & Lu, T. Particle Swarm\nOptimization-Based Source Seeking. Talk given at the Cal Poly\nPomona Creative Activities and Research Symposium. Pomona, CA. August,\n2019.\n\n\n\n\n",
+      "last_modified": "2022-07-29T07:31:05-07:00"
+    }
+  ],
+  "collections": []
+}
