@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Statistical methods for evaluating interrupted time series with non-random sampling designs
+
+My methodology research is motivated by our design and implementation of a randomized study to investigate novel recruitment strategies for the Consent-to-Contact registry at University of California, Irvine. We employed an oversampling scheme targeting individuals in disadvantaged neighborhoods, as defined by high Area Deprivation Index, to assess the impact of interventions on recruiting both Orange County residents and individuals from underserved communities into the registry. I develop interrupted time series methods tailored for non-random sampling designs that enable valid statistical inference on an overall or marginal intervention effect.
+
+- **Lu TV**, Grill JD, Gillen DL, Cruz M. "Assessing spillover effect of an intervention under interrupted time series designs." *In preparation*.
+
+- **Lu TV**, Grill JD, Gillen DL, Cruz M. "Generalized weighted interrupted time series model for non-random sampling study designs with discrete outcomes." *In preparation*.
+
+- **Lu TV**, Grill JD, Gillen DL, Cruz M. "Interrupted time series methods for non-random sampling study designs with known sampling weights." *Under review*.
+
+
+
+### Collaborative research on Alzheimer's disease and related dementia (ADRD)
+
+I am a member of a research lab led by Professors [Daniel Gillen](https://dgillen.ics.uci.edu/) (Ph.D. advisor) and [Joshua Grill](https://sites.mind.uci.edu/grill/) that specializes in developing and applying statistical methods for ADRD clinical trials. I have collaborated on multiple projects focusing on clinical trial design, conduct, recruitment, and assessment.
+
+- **Lu TV**, Witbracht M, Cruz M, Hoang D, Kind A, Grill JD, Gillen DL. "A randomized intervention experiment: recruiting individuals from disadvantaged neighborhoods into a local research registry." *In preparation*.
+
+- **Lu TV**, Campos P, Leader S, Lee X, Xu H, Doran E, Grill JD, Lott IT. "Comparing research attitudes in Down syndrome and non-Down syndrome research decision-makers." *Alzheimer's & Dementia: Translational Research & Clinical Interventions*, Vol. 10, No. 3 (2024). [<i class="fa-solid fa-file"></i>](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.12478)
+
+
+- **Lu TV**, Grill JD, Gillen DL. "Study partner type and adverse event reporting in mild-to-moderate Alzheimer's disease clinical trials." *Journal of Alzheimer's Disease*, Vol. 98, No. 2 (2024) pp. 729-738. [<i class="fa-solid fa-file"></i>](https://journals.sagepub.com/doi/10.3233/JAD-231283)
+

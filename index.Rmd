@@ -1,0 +1,25 @@
+---
+title: "Thuy Lu, MS"
+description: |
+  PhD student in Statistics
+image: "images/profile_pic.jpeg"
+site: distill::distill_website
+links:
+  - label: '<i class="fa-solid fa-envelope"></i>'
+    url: "mailto:lutv@uci.edu"
+  - label: '<i class="fab fa-linkedin fa-lg"></i>'
+    url: "https://linkedin.com/in/thuy-lu"
+  - label: '<i class="fa-brands fa-google-scholar"></i>'
+    url: "https://scholar.google.com/citations?user=_7WGn6sAAAAJ&hl=en&oi=sra"
+  - label: 'CV'
+    url: "cv/Lu_CV.pdf"
+  - label: 'Resume'
+    url: "resume/Lu_Resume.pdf"
+
+output:
+  postcards::jolla
+---
+
+I am a PhD candidate in the Department of Statistics at the University of California, Irvine. I specialize in interrupted time series, correlated data, and non-random sampling designs. I have collaborative experience designing, conducting, and analyzing randomized and observational studies in Alzheimer's disease and dementia research, with focus on recruitment and assessment strategies.
+
+I am actively seeking to transition into a Statistician or Research Scientist role where I can apply my statistical expertise to address real-world challenges in drug development, clinical trials, or health outcomes research.

@@ -1,0 +1,29 @@
+---
+title: "Presentations"
+---
+
+
+#### Interrupted time series methods for non-random sampling study designs with known sampling weights
+
+-	08/2025: Joint Statistical Meetings, Nashville, TN	
+-	06/2024: Western North American Region of The International Biometric Society, Fort Collins, CO	
+
+#### An interrupted time-series design experiment of research registry recruitment interventions
+
+-	07/2025: Alzheimer’s Association International Conference, Toronto, Canada  	
+-	02/2025: Research and Education in Memory Impairments and Neurological Disorders (REMIND) Emerging Scientists Symposium, Irvine, CA	
+
+#### Generalized weighted interrupted time series model for non-random sampling study designs with discrete outcomes
+
+-	06/2025: Western North American Region of The International Biometric Society, Whistler, CA	
+
+#### Comparing research attitudes in Down syndrome and non-Down syndrome research decision-makers 
+
+-	07/2024: Alzheimer’s Association International Conference, Philadelphia, PA 
+-	03/2024: REMIND Emerging Scientists Symposium, Irvine, CA	
+
+
+#### The relationship between study partner type and rate of adverse event reporting in mild-to-moderate Alzheimer’s disease clinical trials
+
+-	08/2022: Alzheimer’s Association International Conference, San Diego, CA
+-	04/2022: REMIND Emerging Scientists Symposium, Irvine, CA	
